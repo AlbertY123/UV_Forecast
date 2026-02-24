@@ -1,3 +1,4 @@
+Demo: https://uvprediction.netlify.app/
 # UV Forecast (Melbourne + anywhere)
 
 A small React + Vite app that shows **hourly UV index forecast for the next 3 days**.
