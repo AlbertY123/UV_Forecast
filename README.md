@@ -1,7 +1,7 @@
 Demo: https://uvprediction.netlify.app/
 # UV Forecast (Melbourne + anywhere)
 
-A small React + Vite app that shows **hourly UV index forecast for the next 3 days**.
+A  React + Vite app that shows **hourly UV index forecast for the next 3 days**.
 
 - Default location: **Melbourne, AU**
 - Optional: search any place (via Open‑Meteo geocoding)
@@ -36,5 +36,5 @@ npm run preview
 
 ## Notes
 
-- UV is a forecast; treat it as guidance.
+- UV is a forecast. treat it as guidance.
 - If you want to pin it to Melbourne-only, remove the search UI and hardcode the coordinates.
